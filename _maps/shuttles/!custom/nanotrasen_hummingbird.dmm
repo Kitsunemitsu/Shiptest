@@ -230,6 +230,8 @@
 	pixel_x = 11;
 	pixel_y = -20
 	},
+/obj/structure/table/chem,
+/obj/machinery/fax/nanotrasen,
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "im" = (
